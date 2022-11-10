@@ -9,6 +9,7 @@
   
   "terminal.integrated.fontFamily": "Fira Code",
   "terminal.integrated.fontSize": 18,
+  
   "editor.inlineSuggest.enabled": true,
   
   "terminal.integrated.profiles.windows": {
