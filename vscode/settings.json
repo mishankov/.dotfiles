@@ -11,4 +11,11 @@
     "terminal.integrated.fontSize": 18,
 
     "editor.inlineSuggest.enabled": true,
+    
+    "terminal.integrated.profiles.windows": {
+        "Custom Init": {
+          "path": "C:\\WINDOWS\\system32\\cmd.exe"
+        }
+      },
+    "terminal.integrated.defaultProfile.windows": "Custom Init"
 }
