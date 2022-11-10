@@ -1,21 +1,18 @@
 {
-    "workbench.colorTheme": "Monokai Pro",
-    "workbench.iconTheme": "ayu",
-    "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Monokai Pro",
+  "workbench.iconTheme": "ayu",
+  "workbench.sideBar.location": "right",
 
-    "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 18,
-    "editor.fontLigatures": true,
-    
-    "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.fontSize": 18,
-
-    "editor.inlineSuggest.enabled": true,
-    
-    "terminal.integrated.profiles.windows": {
-        "Custom Init": {
-          "path": "C:\\WINDOWS\\system32\\cmd.exe"
-        }
-      },
-    "terminal.integrated.defaultProfile.windows": "Custom Init"
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.profiles.windows": {
+    "Custom Init": {
+      "path": "C:\\WINDOWS\\system32\\cmd.exe"
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Custom Init"
 }
