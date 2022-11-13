@@ -1,6 +1,6 @@
 {
-  "workbench.colorTheme": "Monokai Pro",
-  "workbench.iconTheme": "ayu",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
 
   "editor.fontFamily": "Fira Code",
