@@ -12,6 +12,10 @@
   
   "editor.inlineSuggest.enabled": true,
   
+  "explorer.autoRevealExclude": {
+      "**/node_modules": true
+  },
+  
   "terminal.integrated.profiles.windows": {
     "Custom Init": {
       "path": "C:\\WINDOWS\\system32\\cmd.exe"
