@@ -1,25 +1,43 @@
 {
-  "workbench.colorTheme": "GitHub Dark",
+ // Color theme
+  "workbench.colorTheme": "Carbonight (rainglow)",
+  "editor.tokenColorCustomizations": {
+    "comments": "#555",
+  },
+
+  // Files explorer
   "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
 
+  "explorer.autoRevealExclude": {
+    "**/node_modules": true
+  },
+
+  // Editor
   "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "editor.fontLigatures": true,
+  "editor.bracketPairColorization.enabled": false,
   
-  "terminal.integrated.fontFamily": "Fira Code",
-  "terminal.integrated.fontSize": 18,
+  // Editor - Tabs
+  "editor.tabSize": 2,
+  "editor.indentSize": "tabSize",
   
+  // Editor - Suggestions
   "editor.inlineSuggest.enabled": true,
   
-  "explorer.autoRevealExclude": {
-      "**/node_modules": true
-  },
-  
+  // Editor - Disabled features
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.stickyScroll.enabled": false,
+
+  // Terminal
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontSize": 18,
+
   "terminal.integrated.profiles.windows": {
     "Custom Init": {
       "path": "C:\\WINDOWS\\system32\\cmd.exe"
     }
   },
-  "terminal.integrated.defaultProfile.windows": "Custom Init"
+  "terminal.integrated.defaultProfile.windows": "Custom Init",
 }
