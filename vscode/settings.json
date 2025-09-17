@@ -13,6 +13,13 @@
     "**/node_modules": true
   },
 
+  // Disable stuff
+  "workbench.statusBar.visible": false,
+  "workbench.navigationControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+
   // Editor
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 20,
